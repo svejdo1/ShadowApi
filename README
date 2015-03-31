@@ -1,0 +1,1 @@
+Facebook Open Graph API withdrew support to get list of all your contacts. This small C# library uses browser automation to query facebook directly and get list of all your contacts.
