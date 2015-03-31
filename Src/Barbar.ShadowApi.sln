@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.ShadowApi.Interfaces", "Barbar.ShadowApi.Interfaces\Barbar.ShadowApi.Interfaces.csproj", "{57E04DD1-19A9-417C-B805-78AE32F518C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.ShadowApi.GitHub", "Barbar.ShadowApi.Core\Barbar.ShadowApi.GitHub.csproj", "{8C54C138-440A-4FB5-B166-EE988C22CD8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.ShadowApi.Implementation", "Barbar.ShadowApi.Implementation\Barbar.ShadowApi.Implementation.csproj", "{C884CFBB-1694-401B-86A1-CA5E9A9E8894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.ShadowApiExampleOne", "Barbar.ShadowApiExampleOne\Barbar.ShadowApiExampleOne.csproj", "{83450CD6-507C-43C1-A9D1-22552D7F59DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.ShadowApiExampleTwo", "Barbar.ShadowApiExampleTwo\Barbar.ShadowApiExampleTwo.csproj", "{B3F4C943-A913-4531-8A7D-EB8198FECBE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E04DD1-19A9-417C-B805-78AE32F518C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E04DD1-19A9-417C-B805-78AE32F518C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E04DD1-19A9-417C-B805-78AE32F518C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E04DD1-19A9-417C-B805-78AE32F518C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C54C138-440A-4FB5-B166-EE988C22CD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C54C138-440A-4FB5-B166-EE988C22CD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C54C138-440A-4FB5-B166-EE988C22CD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C54C138-440A-4FB5-B166-EE988C22CD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C884CFBB-1694-401B-86A1-CA5E9A9E8894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C884CFBB-1694-401B-86A1-CA5E9A9E8894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C884CFBB-1694-401B-86A1-CA5E9A9E8894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C884CFBB-1694-401B-86A1-CA5E9A9E8894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83450CD6-507C-43C1-A9D1-22552D7F59DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83450CD6-507C-43C1-A9D1-22552D7F59DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83450CD6-507C-43C1-A9D1-22552D7F59DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83450CD6-507C-43C1-A9D1-22552D7F59DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F4C943-A913-4531-8A7D-EB8198FECBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F4C943-A913-4531-8A7D-EB8198FECBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F4C943-A913-4531-8A7D-EB8198FECBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F4C943-A913-4531-8A7D-EB8198FECBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
