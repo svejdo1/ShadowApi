@@ -20,8 +20,8 @@ namespace Barbar.ShadowApi.Implementation
       {
         try
         {
-          browser.TextField(Find.ByName("email")).Value = "svejdo1@gmail.com";
-          browser.TextField(Find.ByName("pass")).Value = "fb@jackal12";
+          browser.TextField(Find.ByName("email")).Value = "your_facebook_email";
+          browser.TextField(Find.ByName("pass")).Value = "your_facebook_password";
           browser.Form(Find.ById("login_form")).Submit();
           browser.WaitForComplete();
         }
